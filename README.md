@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyeshaShahid03
-- 💼 I have proficiency in HTML5, Tailwind CSS, JavaScript, and React.
+- 💼 I have proficiency in frontend frameworks like HTML5, Tailwind CSS, JavaScript, and React.
 - 👩‍💻 I'm working on full-stack development, leveraging my skills in both front-end and back-end technologies to create innovative and user-friendly web applications.
 - 🤝 I'm open to collaborating on interesting projects
 - ✉️ You can contact me at ayeshaashii20g@gmail.com
