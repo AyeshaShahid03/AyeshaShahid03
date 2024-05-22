@@ -29,9 +29,6 @@ username=ayeshashahid03&show_icons=true&locale=en&layout=compact" alt="ayeshasha
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshashahid03&" alt="ayeshashahid03" /></p>
 
-### GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AyeshaShahid03=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaShahid03&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaShahid03&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
