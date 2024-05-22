@@ -28,7 +28,3 @@ username=ayeshashahid03&show_icons=true&locale=en&layout=compact" alt="ayeshasha
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshashahid03&show_icons=true&locale=en" alt="ayeshashahid03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshashahid03&" alt="ayeshashahid03" /></p>
-
- <b>My GitHub Stats</b>
-
-<a href="https://github.com/AyeshaShahid03"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> -->
