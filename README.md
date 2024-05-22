@@ -31,4 +31,4 @@ username=ayeshashahid03&show_icons=true&locale=en&layout=compact" alt="ayeshasha
 
  <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/findusman"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> -->
+<a href="https://github.com/AyeshaShahid03"><img src="https://github-readme-stats.vercel.app/api?username=findusman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="findusman's GitHub stats" /></a> -->
