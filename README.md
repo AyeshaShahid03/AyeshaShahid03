@@ -28,4 +28,4 @@ username=ayeshashahid03&show_icons=true&locale=en&layout=compact" alt="ayeshasha
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshashahid03&" alt="ayeshashahid03" /></p>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=findahmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaShahid03&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
