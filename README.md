@@ -25,7 +25,7 @@ username=ayeshashahid03&show_icons=true&locale=en&layout=compact" alt="ayeshasha
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshashahid03&show_icons=true&locale=en" alt="ayeshashahid03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshashahid03&" alt="ayeshashahid03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshashahid03&" alt="AyeshaShahid03" /></p>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaShahid03&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
