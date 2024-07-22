@@ -29,5 +29,5 @@ username=ayeshashahid03&show_icons=true&locale=en&layout=compact" alt="ayeshasha
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyeshaShahid03&theme=dark) 
 
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=AyeshaShahid03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaShahid03&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
