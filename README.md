@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha Shahid</h1>
 <h3 align="center">A passionate Website developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashahid03&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashahid03" /> </p>
 
 - 🌱 I’m currently learning **backend**
