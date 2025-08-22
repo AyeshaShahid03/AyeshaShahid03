@@ -18,7 +18,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
 ### 🌟 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" /> </p>
 
