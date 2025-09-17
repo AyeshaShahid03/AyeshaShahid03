@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashahid03&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashahid03" /> </p>
 
 - 🌱 CEO @ ZOLIXI
-- www.zolixi.com
+- www.zolixi.c
 
 - 📫 How to reach me **ayeshaashii20g@gmail.com**
 
