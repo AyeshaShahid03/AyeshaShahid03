@@ -6,6 +6,7 @@
 
 - 🌱 CEO @ ZOLIXI
 - www.zolixi.com
+- info@zolixi.com
 
 - 📫 Reach me at **ayeshaashii20g@gmail.com**
 
