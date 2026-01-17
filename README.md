@@ -5,10 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashahid03&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashahid03" /> </p>
 
 - 🌱 CEO @ Aqnova Technologies (formerly Zolixi)
-- www.zolixi.com
-- info@zolixi.com
+- www.aqnovatechnologies.com
+- contact@aqnovatechnologies.com
 
 - 📫 Reach me at **ayeshaashii20g@gmail.com**
+- https://ayeshashahid03.github.io/Ayesha-Portfolioi/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
