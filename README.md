@@ -4,7 +4,7 @@
 <img align="right" alt="" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashahid03&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashahid03" /> </p>
 
-- 🌱 CEO @ Zolixi
+- 🌱 CEO @ Aqnova Technologies (formerly Zolixi)
 - www.zolixi.com
 - info@zolixi.com
 
